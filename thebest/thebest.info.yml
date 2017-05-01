@@ -1,0 +1,14 @@
+name: The Best
+description: This is the best Drupal 8 theme around
+type: theme
+core: 8.x
+
+libraries:
+  - thebest/global-css
+
+regions:
+  header: 'Header'
+  content: 'Main Content'
+  sidebar: 'Sidebar'
+  footer: 'Footer'
+  navigation: 'Navigation'

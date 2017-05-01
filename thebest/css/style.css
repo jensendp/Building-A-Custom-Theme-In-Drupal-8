@@ -1,0 +1,30 @@
+.blog-header {
+  height: 250px;
+  background: url('../images/background.jpg') no-repeat;
+}
+
+.main_logo {
+  zoom: 50%;
+}
+
+.main_site_name {
+  padding-left: 30px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+
+.blog-footer {
+  padding-top: 20px;
+}
+
+.recent-posts h3 a {
+  color: #777777;
+}
+
+.recent-posts .views-field-view-node a {
+  color: red;
+}
